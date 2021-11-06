@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-hello! 4th year @ UBC studying computer science in the BCS-ICS second degree program.
+hello! 4th year @ UBC studying computer science in the BCS-ICS second degree program. 
+
+previously studied life sciences + english literature.
 
 currently learning react and python.
 
-love to read and binge kdramas/movies.
+love to read 📖, watch movies/kdramas 🎬, and listen to music 🎵.
