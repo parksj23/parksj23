@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+hello! 4th year @ UBC studying computer science in the BCS-ICS second degree program.
+
+currently learning react and python.
+
+love to read and binge kdramas/movies 
