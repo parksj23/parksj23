@@ -22,3 +22,5 @@ previously studied life sciences + english literature.
 currently learning react and python.
 
 love to read 📖, watch movies/kdramas 🎬, and listen to music 🎵.
+
+
