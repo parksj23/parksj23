@@ -19,4 +19,4 @@ hello! 4th year @ UBC studying computer science in the BCS-ICS second degree pro
 
 currently learning react and python.
 
-love to read and binge kdramas/movies 
+love to read and binge kdramas/movies.
